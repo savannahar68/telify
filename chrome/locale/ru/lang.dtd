@@ -1,0 +1,45 @@
+﻿<!ENTITY menu.edit_number "Изменить и вызвать">
+<!ENTITY menu.selection "Выбранный номер телефона">
+<!ENTITY menu.config "Настройки">
+<!ENTITY menu.onlinehelp "Справка в Сети">
+<!ENTITY dialog.edit.title "Редактирование номера телефона">
+<!ENTITY dialog.edit.code "Код">
+<!ENTITY dialog.edit.country "Страна">
+<!ENTITY dialog.edit.dial "Вызов">
+<!ENTITY dialog.config.title "Параметры Telify">
+<!ENTITY dialog.config.general "Общие настройки">
+<!ENTITY dialog.config.custom "Другой">
+<!ENTITY dialog.config.about "О программе">
+<!ENTITY dialog.config.replaces "Заменяет">
+<!ENTITY dialog.config.in_template "в строке шаблона">
+<!ENTITY dialog.config.idd_prefix "Вместо '+' набирать">
+<!ENTITY dialog.config.hreftype "Использовать протокол">
+<!ENTITY dialog.config.hreftype0 "tel:">
+<!ENTITY dialog.config.hreftype1 "callto:">
+<!ENTITY dialog.config.hreftype2 "skype:">
+<!ENTITY dialog.config.hreftype3 "sip:">
+<!ENTITY dialog.config.hreftype4 "phone:">
+<!ENTITY dialog.config.hreftype_custom "другой...">
+<!ENTITY dialog.config.dialcc "Если номер содержит код страны">
+<!ENTITY dialog.config.dialwocc "Если номер не содержит код страны">
+<!ENTITY dialog.config.dial_menu "открыть меню">
+<!ENTITY dialog.config.dial_direct "сразу вызвать">
+<!ENTITY dialog.config.highlight "Подсвечивать найденные номера">
+<!ENTITY dialog.config.highlight0 "нет">
+<!ENTITY dialog.config.highlight1 "слегка">
+<!ENTITY dialog.config.highlight2 "средне">
+<!ENTITY dialog.config.highlight3 "сильно">
+<!ENTITY dialog.config.num_history "Количество запоминаемых стран">
+<!ENTITY dialog.config.statusicon "Иконка на панели дополнений">
+<!ENTITY dialog.config.statusicon0 "скрыть">
+<!ENTITY dialog.config.statusicon1 "показать">
+<!ENTITY dialog.config.opentype "Открывать ссылку">
+<!ENTITY dialog.config.opentype0 "в фоновом режиме">
+<!ENTITY dialog.config.opentype1 "в новом окне">
+<!ENTITY dialog.config.opentype2 "в новой вкладке">
+<!ENTITY dialog.config.opentype3 "перейти на новую вкладку">
+<!ENTITY dialog.config.suppress_cc "Считать местными номера с кодом:">
+<!ENTITY dialog.config.telify_addressbook "Набор номеров из адресной книги:">
+<!ENTITY dialog.config.yes "Да">
+<!ENTITY dialog.config.no "Нет">
+ 

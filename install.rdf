@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>{6c5f349a-ddda-49ad-bdf0-326d3fe1f938}</em:id>
+		<em:type>2</em:type>
+		<em:name>Telify</em:name>
+		<em:iconURL>chrome://telify/content/icon/icon32.png</em:iconURL>
+		<em:icon64URL>chrome://telify/content/icon/icon64.png</em:icon64URL>
+		<em:version>1.3.6</em:version>
+		<em:creator>Michael Koch</em:creator>
+		<em:homepageURL>http://www.codepad.de/</em:homepageURL>
+		<em:optionsURL>chrome://telify/content/config.xul</em:optionsURL>
+		<em:unpack>true</em:unpack>
+
+		<em:localized>
+			<Description>
+				<em:locale>de-DE</em:locale>
+				<em:name>Telify</em:name>
+				<em:description>Erzeugt klickbare Links aus Telefonnummern</em:description>
+			</Description>
+		</em:localized>
+
+		<em:localized>
+			<Description>
+				<em:locale>en-US</em:locale>
+				<em:name>Telify</em:name>
+				<em:description>Converts telephone numbers into clickable links</em:description>
+			</Description>
+		</em:localized>
+
+		<!-- Localization by Alain Momboisse (momboisse.alain@wanadoo.fr) -->
+    <em:localized>
+      <Description>
+        <em:locale>fr-FR</em:locale>
+        <em:name>Telify</em:name>
+        <em:description>Convertit les numéros de telephone en liens cliquables</em:description>
+      </Description>
+    </em:localized>
+
+		<!-- Localization by Sergey Seleznev (s.selezniov@mail.ru) -->
+    <em:localized>
+      <Description>
+        <em:locale>ru-RU</em:locale>
+        <em:name>Telify</em:name>
+        <em:description>Преобразует номера телефонов в ссылки</em:description>
+      </Description>
+    </em:localized>
+
+		<!-- Firefox -->
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>3.0</em:minVersion>
+				<em:maxVersion>46.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+
+		<!-- Thunderbird -->
+		<em:targetApplication>
+			<Description>
+				<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+				<em:minVersion>3.0</em:minVersion>
+				<em:maxVersion>39.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+
+	</Description>
+</RDF>

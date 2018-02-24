@@ -1,0 +1,9 @@
+content	telify	chrome/content/
+locale	telify	en-US	chrome/locale/en-US/
+locale	telify	de-DE	chrome/locale/de-DE/
+locale	telify	fr-FR	chrome/locale/fr-FR/
+locale	telify	ru		chrome/locale/ru/
+
+overlay	chrome://browser/content/browser.xul chrome://telify/content/browser.xul application={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+overlay	chrome://messenger/content/messenger.xul chrome://telify/content/messenger.xul application={3550f703-e582-4d05-9a08-453d09bdfdc6}
+overlay	chrome://messenger/content/baseMenuOverlay.xul chrome://telify/content/baseMenuOverlay.xul application={3550f703-e582-4d05-9a08-453d09bdfdc6}
